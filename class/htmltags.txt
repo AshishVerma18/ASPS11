@@ -1,0 +1,35 @@
+HTML Tags   -----------------       Syntax   --- Usage 
+------------------------------------------------------
+HTML                        <html>           	- main tag of web page 
+head                        <head></head>    	- Logical part of web page 
+
+body                        <body></body>    	- To do in web page body / phsical info 
+script						<script></script>   - To write script in html/ for appearence
+anchor 						<a />				- To visit or open new site
+comment 					<!-- -->			- To comment or expalin in programming page
+break						<br>				- to break the line
+list 						<li></li> 			- to list items
+horizantal					<hr>				- to view line in horizantal
+ordered list				<ol></ol>			- to show lines in ordered list
+unordered list 				<ul></ul>			- to show lines in unordered list
+table 						<table></table>		- to draw table in web page
+table header 					<thead></thead>		- to group header content 
+table head 					<th></th>     		- to write heading in table
+table row 					<tr></tr>			- to write the content in row
+table data 					<td></td>			- to write data in table
+input						<input></input>		- to write input to a form
+form 						<form></form>		- to wirte action in web page
+button 						<button></button>	- to submit the action
+text line in diff size      <h1></h1> <h2></h2> 
+							<h3></h3> <h4></h4> - to show headings in different size
+							<h5></h5> <h6></h6> 
+title						<title></title>     - to write title in head
+paragraph 					<p></P> 			- to write paragaph in web page
+division					<div></div>			- to divide the page
+italic 						<i></i>				- to show line in italic
+bold & strong 				<b></b> <strong></strong> - to show line in bold
+strike or delete 			<strike></strike>		- to delete line in web page
+link 						<link></link>			- to link the css,js,bootstrap,jquery etc..
+style 				        <style></style>			- to style height,width,background,and many etc..
+image 					    <img   />			- to show image in web
+textarea				    <textarea>			- to write multi lines in web page
